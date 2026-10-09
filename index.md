@@ -4,7 +4,7 @@ layout: default
 
 # Andrey Guilherme Espinhel
 
-**IT Student | Systems Analysis | Business Intelligence | Agile**
+Systems Analysis | Business Intelligence | Product Owner | Agile
 
 📧 agespinhel@hotmail.com | 📞 (416) 358-2661 | 📍 Saint John, NB
 
