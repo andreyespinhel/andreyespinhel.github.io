@@ -12,7 +12,7 @@ layout: default
 
 ## About Me
 
-I am an IT student at NBCC in the Information Technology: Software Development program, with several years of hands-on experience in systems analysis, business intelligence, and Agile product ownership. I have worked in Brazil and Canada, and I enjoy solving problems with data, automation, and clean code. My goal is to build a career in IT infrastructure, networking, or cybersecurity.
+I am an IT student at NBCC in the Information Technology: Software Development program, with experience in systems analysis, business intelligence, and Agile product ownership in Brazil. I have worked in Brazil and Canada, and I enjoy solving problems with data and automation. My goal is to build a career in IT infrastructure, networking, or data.
 
 ---
 
