@@ -76,10 +76,3 @@ Humber College | Toronto, ON | Graduated 2024
 Anhanguera University | São Paulo, Brazil | Graduated 2017 <br>
 *Canadian equivalency: Bachelor's degree, assessed by WES*
 
----
-
-## Contact
-
-- **Email:** agespinhel@hotmail.com
-- **Phone:** (416) 358-2661
-- **LinkedIn:** https://www.linkedin.com/in/andreyespinhel
