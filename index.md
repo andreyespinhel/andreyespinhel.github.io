@@ -10,12 +10,6 @@ Systems Analysis | Business Intelligence | Product Owner | Agile
 
 ---
 
-## About Me
-
-I am an IT student at NBCC in the Information Technology: Software Development program, with experience in systems analysis, business intelligence, and Agile product ownership. I enjoy solving problems with data and automation and my goal is to build a career in IT infrastructure, networking, or data.
-
----
-
 ## Skills
 
 **Programming:** C#, SQL, HTML/CSS, JavaScript, VBA 
