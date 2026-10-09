@@ -26,21 +26,18 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 
 **Certifications:** Scrum Master 
 
-**Strengths:** Attention to detail, documentation, process analysis, troubleshooting
+**Strengths:** Attention to detail, documentation, process analysis, communication, troubleshooting
 
 ---
 
 ## Projects
 
-### VBA Process Automation – Stefanini
-**Description:** Automated Mainframe processes using VBA, reducing manual effort and errors.
-**Technologies:** VBA, Mainframe
-**Role:** System Analyst
 
-### Business Intelligence Reporting – Logicalis
+### Director's Board Report – Logicalis
 **Description:** Collected and modeled data from multiple sources, created custom reports, and documented training materials for various departments.
 **Technologies:** Power BI, SQL, VBA
 **Role:** Business Intelligence Analyst
+**Link:** 
 
 ---
 
@@ -62,11 +59,6 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 - Developed VBA applications and automated Mainframe processes.
 - Performed process analysis for new developments.
 
-**Sous Chef / Kitchen Manager** | The Dime & Masadeli | Toronto, ON | Jan 2023 – Jul 2025
-- Trained and supported kitchen staff.
-- Managed inventory and implemented waste reduction strategies.
-- Led back-of-house operations during high-volume service.
-
 ---
 
 ## Education
@@ -79,7 +71,7 @@ Humber College | Toronto, ON | Graduated 2024
 
 **Bachelor's in Mechanical Engineering**
 Anhanguera University | São Paulo, Brazil | Graduated 2017
-*Canadian credential assessment in progress (WES)*
+*Canadian credential assessment (WES)*
 
 ---
 
@@ -87,5 +79,4 @@ Anhanguera University | São Paulo, Brazil | Graduated 2017
 
 - **Email:** agespinhel@hotmail.com
 - **Phone:** (416) 358-2661
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [(https://www.linkedin.com/in/andreyespinhel/)]
