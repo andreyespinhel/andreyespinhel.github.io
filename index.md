@@ -45,6 +45,7 @@ Systems Analysis | Business Intelligence | Product Owner | Agile
 - Owned and prioritized the product backlog.
 - Facilitated Agile sprint meetings, including planning, daily stand-ups, and reviews.
 - Oversaw end-to-end product deployments from concept to delivery.
+  
 
 **Business Intelligence Analyst** | Logicalis | São Paulo, Brazil | Sep 2018 – Mar 2021
 
@@ -52,12 +53,14 @@ Systems Analysis | Business Intelligence | Product Owner | Agile
 - Collected and analyzed data from diverse sources.
 - Designed custom data models and created training documentation.
 - Developed and supported VBA applications.
+  
 
 **System Analyst** | Stefanini | São Paulo, Brazil | Jul 2017 – Sep 2018
 
 - Tested and validated system functionalities.
 - Developed VBA applications and automated Mainframe processes.
 - Performed process analysis for new developments.
+
 
 ---
 
