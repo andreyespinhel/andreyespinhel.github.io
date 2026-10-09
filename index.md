@@ -18,13 +18,13 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 
 ## Skills
 
-**Programming:** C#, SQL (Intermediate), HTML/CSS, JavaScript, VBA (Advanced)
+**Programming:** C#, SQL, HTML/CSS, JavaScript, VBA 
 
 **Data & Tools:** Power BI, Git/GitHub, JIRA, IBM Watson
 
 **Methodologies:** Agile/Scrum, SDLC, Systems Analysis, Testing/Validation
 
-**Certifications:** Scrum Master (Scrum Institute)
+**Certifications:** Scrum Master 
 
 **Strengths:** Attention to detail, documentation, process analysis, troubleshooting
 
@@ -32,23 +32,15 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 
 ## Projects
 
-### Personal Portfolio Website
-**Description:** Designed and built a responsive portfolio website to showcase my IT skills, projects, and experience.
-**Technologies:** HTML, CSS, GitHub Pages
-**Role:** Designer and Developer
-**Link:** [https://yourusername.github.io](https://yourusername.github.io)
-
 ### VBA Process Automation – Stefanini
-**Description:** Automated repetitive Mainframe processes using VBA, reducing manual effort and errors.
+**Description:** Automated Mainframe processes using VBA, reducing manual effort and errors.
 **Technologies:** VBA, Mainframe
 **Role:** System Analyst
-**Link:** Code not publicly available due to employer confidentiality.
 
 ### Business Intelligence Reporting – Logicalis
 **Description:** Collected and modeled data from multiple sources, created custom reports, and documented training materials for various departments.
 **Technologies:** Power BI, SQL, VBA
 **Role:** Business Intelligence Analyst
-**Link:** Not publicly available due to employer confidentiality.
 
 ---
 
