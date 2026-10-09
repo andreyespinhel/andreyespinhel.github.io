@@ -66,15 +66,15 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 
 ## Education
 
-**Diploma in Information Technology: Software Development**
+**Diploma in Information Technology: Software Development** <br>
 NBCC | Saint John, NB | Expected 2027
 
-**Diploma in Business Management**
+**Diploma in Business Management** <br>
 Humber College | Toronto, ON | Graduated 2024
 
-**Bachelor's in Mechanical Engineering**
-Anhanguera University | São Paulo, Brazil | Graduated 2017
-*Canadian credential assessment (WES)*
+**Bachelor's in Control and Automation Engineering** <br>
+Anhanguera University | São Paulo, Brazil | Graduated 2017 <br>
+*Canadian equivalency: Bachelor's degree, assessed by WES*
 
 ---
 
