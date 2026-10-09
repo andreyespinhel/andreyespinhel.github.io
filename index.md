@@ -33,11 +33,11 @@ I am an IT student at NBCC in the Information Technology: Software Development p
 ## Projects
 
 
-### Director's Board Report – Logicalis
+### Customer Excellence Report – Logicalis
 **Description:** Collected and modeled data from multiple sources, created custom reports, and documented training materials for various departments.
 **Technologies:** Power BI, SQL, VBA
 **Role:** Business Intelligence Analyst
-**Link:** 
+**Link:** <a href url="https://1drv.ms/u/c/05d5ef689bdc271a/IQCrQVvTd91DRqwMaZuyM_QOAUo0e8F8DwkoDbB0LEtaMVk?e=KdJtrB"> Download Project </a>
 
 ---
 
